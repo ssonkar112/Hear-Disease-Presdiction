@@ -39,7 +39,7 @@ pip install -r requirements.txt
 *To clone the repository*
 
 ```
-git clone https://github.com/asthasharma98/Heart-Disease-Prediction-Deployment.git
+git clone https://github.com/ssonkar112/Heart-Disease-Prediction-Deployment.git
 ```
 
 ### Run 
